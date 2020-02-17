@@ -1,4 +1,4 @@
-package org.ibaiqi.controller;/**
+package org.ibaiqi.test.controller;/**
  * Author: asplover
  * Date: 2020-02-15 12:15
  * Package: org.fkit.controller

@@ -8,10 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>我的主页</title>
+    <title>springMVC5、mybatis，maven 在idea中配置</title>
 </head>
 <body>
-    <h3>我的主页222ee3333666,增加配置1114466</h3>
-    <h3>我的主页222ee3333666,增加配置1114466</h3>
+    <h3>springMVC5、mybatis3，maven3 在idea中配置、以便后期恢复使用</h3>
+    <hr/>
 </body>
 </html>
